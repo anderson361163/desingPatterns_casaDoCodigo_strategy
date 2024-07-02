@@ -10,7 +10,7 @@ public class Principal {
 
 		System.out.println("----------------------------------");
 		
-		System.out.println(" >> Estacionamento Casa do Código << ");
+		System.out.println(" >> Estacionamento Casa do CÃ³digo << ");
 		
 		System.out.println("1. Carro estacionando...");
 		
